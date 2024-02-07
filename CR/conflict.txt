@@ -1,6 +1,11 @@
 
-Rough indeed
+1. Rough indeed
 
-Going to be rough to fix this one on feature 1
+2. Going to be rough to fix this one on feature 1
 
+Le conflit a été créer si dessus, 1 étant écris dans master et 2 dans feature.
 
+Après avoir exposer le conflit, le fichier a due être manuellement touché pour resoudre le conflit.
+Choisir quelle parti conserver et où.
+
+Puis ensuite commit et push sur le server.
