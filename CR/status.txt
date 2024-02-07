@@ -1,0 +1,2 @@
+Un fichier fraichement créer apparait comme non suivi (untracked)
+Un fichier après 'git add' apparait omme to be committed.
