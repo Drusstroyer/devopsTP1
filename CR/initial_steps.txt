@@ -1,0 +1,6 @@
+git init devopsTP1
+cd devopsTP1
+git add AUTHORS
+git remote add origin https://github.com/Drusstroyer/devopsTP1.git
+git commit -m 'Etape_3'
+git push -u origin main
