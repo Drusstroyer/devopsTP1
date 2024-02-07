@@ -1,0 +1,5 @@
+1. On ne peut pas changer de branche avec des changement ni commit ni 'sauvegarder'
+2. On doit donc utiliser 'git stash' pour pouvoir passer vers featur1 sans perdre nos changement.
+3. Le contenu de conflict.txt est celui du dernier commit
+4. git stash list
+5. git stash pop si il n'y a qu'un seul membre dans la liste.

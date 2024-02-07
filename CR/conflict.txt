@@ -9,3 +9,8 @@ Après avoir exposer le conflit, le fichier a due être manuellement touché pou
 Choisir quelle parti conserver et où.
 
 Puis ensuite commit et push sur le server.
+
+git stash:
+
+Sers lorsque nous voulons enregistrer notre état actuelle mais aussi être capable de retourner vers l'état du dernier comit.
+

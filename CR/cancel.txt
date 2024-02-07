@@ -1,2 +1,4 @@
 git revert HEAD
 Suffisant pour annuler le dernier commit.
+git restore <filename>
+Pour restaurer un fichier à son état dans le commit précédent.
