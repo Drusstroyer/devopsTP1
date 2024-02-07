@@ -1,0 +1,2 @@
+git revert HEAD
+Suffisant pour annuler le dernier commit.
