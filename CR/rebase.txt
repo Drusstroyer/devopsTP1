@@ -1,0 +1,8 @@
+1. Commit sur les 2 branches, puis rebase en étant sur feature2.
+Checkout vers main nous dis:
+
+Votre branche est en avance sur 'origin/main' de 1 commit.
+  (utilisez "git push" pour publier vos commits locaux).
+
+git push étant une une fonction de fast-forward aka, avancé dans les commit.
+comme deplacer les changement fais dans la branche comme étant récemment fais sur le main/master.
