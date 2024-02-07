@@ -1,0 +1,4 @@
+Pour ignorer certain type de fichier ou dossier et son contenu.
+Il nous faux créer un fichier 'gitignore' et y entrer les moyens de reconnaitre les fichier ou dossier a ignorer.
+
+Ici *.pdf et tmp/.
